@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-opcua-mcp-badge.png)](https://mseep.ai/app/kukapay-opcua-mcp)
+
 # OPC UA MCP Server
 
 An MCP server that connects to OPC UA-enabled industrial systems, allowing AI agents to monitor, analyze, and control operational data in real time.
